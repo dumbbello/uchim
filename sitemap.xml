@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://nauchim.online/</loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-05-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nauchim.online/aerohack2.html </loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-05-25</lastmod>
+  </url>
+  
+   <url>
+    <loc>https://nauchim.online/engineering-volunteering.html </loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-05-25</lastmod>
+  </url>
+    
+  
+   <url>
+    <loc>https://nauchim.online/methodist.html </loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+  
+  
+    <url>
+    <loc>https://nauchim.online/nanotech </loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-05-24</lastmod>
+      </url>
+      
+       <loc>https://nauchim.online/robohack-3.html </loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-05-24</lastmod>
+      </url>
+     
+   <url>
+    <loc>https://nauchim.online/taskills.html </loc>
+    <changefreq>weekly</changefreq>
+        <priority>0.15</priority>
+    <lastmod>2023-04-24</lastmod>
+  </url>
+      
+  </url>
+</urlset>
